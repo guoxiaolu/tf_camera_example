@@ -1,0 +1,6 @@
+animal
+art
+card
+landscape
+people
+other
